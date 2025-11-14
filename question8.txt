@@ -1,0 +1,2 @@
+globalNum is global: it is declared outside main, so the whole file can use it.
+localNum is local: it is declared inside main, so only main can use it.

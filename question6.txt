@@ -1,0 +1,11 @@
+1) int 1value = 10;
+   Error: names cannot start with a number.
+   Fix: int value1 = 10;
+
+2) float avg-rate = 12.5;
+   Error: cannot use - inside a variable name.
+   Fix: float avg_rate = 12.5;
+
+3) char Class = 'A';
+   Error:avoid using names that look like keywords. Also don't start with uppercase letters.
+   Fix: char grade = 'A';

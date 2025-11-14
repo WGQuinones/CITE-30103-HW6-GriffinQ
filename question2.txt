@@ -1,0 +1,9 @@
+Preprocessing: Handles #include and #define. Error: missing header file.
+
+Compilation: Turns code into assembly. Error: typo or undeclared variable.
+
+Assembly: Changes assembly into machine code. Error: bad syntax.
+
+Linking: Combines code with libraries like printf. Error: missing function.
+
+Loading: Puts program in memory to run. Error: can’t open or run file.
